@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGenerator", "ImageGenerator\ImageGenerator.csproj", "{EABC019F-9020-4B98-BAD6-0C5CCE90277C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGenerator.Tests", "ImageGenerator.Tests\ImageGenerator.Tests.csproj", "{EA8CD923-CD97-4ABE-A03B-E88B4F304354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABC019F-9020-4B98-BAD6-0C5CCE90277C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC019F-9020-4B98-BAD6-0C5CCE90277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABC019F-9020-4B98-BAD6-0C5CCE90277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABC019F-9020-4B98-BAD6-0C5CCE90277C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8CD923-CD97-4ABE-A03B-E88B4F304354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8CD923-CD97-4ABE-A03B-E88B4F304354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8CD923-CD97-4ABE-A03B-E88B4F304354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8CD923-CD97-4ABE-A03B-E88B4F304354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

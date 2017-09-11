@@ -1,6 +1,4 @@
-# imagegenerator
-
-IMAGE GENERATOR.
+# IMAGE GENERATOR
 
 Attached  is  a simple solution designed to generate images of different colors and text.
 All generated images are stored at "C:\Images" as configured in the App.Config. Feel free to change this path to whatever suits your need
